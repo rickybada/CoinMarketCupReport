@@ -1,10 +1,10 @@
-# Progetto Python di Riccardo Badanai | Start2Impact
+# Progetto Python di Riccardo Badanai | Start2Impact 🚀
 
-## Descrizione
+## Descrizione 📋
 
 Questo progetto è un'applicazione Python che interagisce con l'API di CoinMarketCap per raccogliere e analizzare i dati delle criptovalute. L'obiettivo del progetto è ottenere informazioni aggiornate sulle criptovalute, elaborarle e generare report utili per l'analisi del mercato.
 
-## Caratteristiche
+## Caratteristiche ✨
 
 - **Connessione all'API di CoinMarketCap**: Estrae dati aggiornati sulle criptovalute.
 - **Elaborazione dei dati**:
@@ -15,7 +15,7 @@ Questo progetto è un'applicazione Python che interagisce con l'API di CoinMarke
   - Filtra le criptovalute con volume superiore a 76,000,000 USD.
 - **Generazione di report**: Crea report dettagliati in formato JSON.
 
-## Requisiti
+## Requisiti 🛠️
 
 - Python 3.x
 - Moduli Python:
@@ -24,13 +24,13 @@ Questo progetto è un'applicazione Python che interagisce con l'API di CoinMarke
   - `os`
   - `datetime`
 
-## Installazione
+## Installazione 🖥️
 
 1. Clona il repository:
 
     ```bash
     git clone https://github.com/rickybada/CoinMarketCupReport.git
-    cd tuo-repository
+    cd CoinMarketCupReport
     ```
 
 2. Installa le dipendenze richieste:
@@ -39,7 +39,7 @@ Questo progetto è un'applicazione Python che interagisce con l'API di CoinMarke
     pip install requests
     ```
 
-## Utilizzo
+## Utilizzo 🚀
 
 1. Esegui lo script Python per ottenere i dati aggiornati sulle criptovalute e generare i report:
 
@@ -70,15 +70,15 @@ Questo progetto è un'applicazione Python che interagisce con l'API di CoinMarke
     }
     ```
 
-## Struttura del Progetto
+## Struttura del Progetto 🗂️
 
 - `PythonCryptoProject.py`: Il file principale che contiene il codice per l'interazione con l'API e l'elaborazione dei dati.
 - `CryptoMarketCupReport_2023-03-17_17-39-10.json`: Un esempio di report generato.
 
-## Contributi
+## Contributi 🤝
 
 I contributi sono benvenuti! Sentiti libero di aprire issue o pull request per migliorare questo progetto.
 
-## Licenza
+## Licenza 📄
 
 Questo progetto è rilasciato sotto la licenza MIT. Consulta il file LICENSE per ulteriori dettagli.
