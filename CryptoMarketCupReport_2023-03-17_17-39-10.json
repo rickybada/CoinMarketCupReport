@@ -1,0 +1,8 @@
+{
+    "1) Best volume 24h <Tether>": "71551989207.77",
+    "2) Best % increment 24h": "{'Tether': 71551989207.76512, 'Bitcoin': 43919779935.841194, 'Ethereum': 11032000868.349009, 'Binance USD': 7914990525.349626, 'USD Coin': 6735234228.9879465, 'BNB': 989855388.46637, 'XRP': 949024324.0350366, 'Conflux': 812006446.9796057, 'Litecoin': 553222799.9224535, 'Polygon': 493365806.5538304}",
+    "2) Worst % increment 24h": "{'eCash': 8447781.03590171, 'Osmosis': 7729526.21480581, 'BitDAO': 7661059.17410652, 'Casper': 6515768.15955174, 'GateToken': 2242831.06467351, 'XDC Network': 2082067.34395132, 'KuCoin Token': 1871114.90682444, 'UNUS SED LEO': 882586.55286271, 'Fei USD': 611881.49615154, 'Gemini Dollar': 579692.32180027}",
+    "3) $ per Top 20 Crypto": "58747.66",
+    "4) $ per Crypto with 76.000.000 volume min threshold 24h": " 56128.68",
+    "5) Profit/loss timedelta = 1": " 6.54%"
+}
