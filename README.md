@@ -29,7 +29,7 @@ Questo progetto è un'applicazione Python che interagisce con l'API di CoinMarke
 1. Clona il repository:
 
     ```bash
-    git clone https://github.com/tuo-username/tuo-repository.git
+    git clone https://github.com/rickybada/CoinMarketCupReport.git
     cd tuo-repository
     ```
 
